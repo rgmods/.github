@@ -3,7 +3,7 @@
     
   </a>
   <p align="center">
-   <img width="150" height="150" src="https://raw.githubusercontent.com/rgmods/.github/main/profile/rgmods.png" alt="Logo">
+   <img width="300" height="300" src="https://raw.githubusercontent.com/rgmods/.github/main/profile/rgmods.png" alt="Logo">
   </p>
   <h1 align="center"><b>RG Mods</b></h1>
   <p align="center">
