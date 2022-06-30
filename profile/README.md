@@ -18,12 +18,6 @@
     Windows
     ·
     Linux
-    ·
-    iOS
-    ·
-    watchOS
-    ·
-    Android
     <br />
     <i>~ Links will be added once a release is available. ~</i>
   </p>
