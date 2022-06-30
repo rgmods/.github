@@ -22,13 +22,13 @@
     <i>~ Links will be added once a release is available. ~</i>
   </p>
 </p>
-RG Mods is an open source cross-platform development application utilizing rXg's API interface to allow users to create and publish customizable applications and mods to an free marketplace for fellow engineers to expand, utilize, and provide feedback.
+RG Mods is an open source cross-platform development application utilizing rXg's API interface to allow users to create and publish customizable applications and mods to a free marketplace for fellow engineers to expand, utilize, and provide feedback.
 <br/>
 <br/>
 
 > NOTE: RG Mods is under active development, most of the listed features are still experimental and subject to change.
 
-Using our cross-platform application, create custom applications using rXg's vastly unique features and capabilities with IFTTT ideology to interact with third party APIs and applications such as Discord, Google Suite Products, Slack, etc. The possibilities to create custom applications around rXg are endless.
+Using our cross-platform application, you can create custom applications using rXg's vastly unique features and capabilities with IFTTT ideology to interact with third party APIs and applications such as Discord, Google Suite Products, Slack, etc. The possibilities to create custom applications around rXg are endless.
 
 <p align="center">
   <a href="">
